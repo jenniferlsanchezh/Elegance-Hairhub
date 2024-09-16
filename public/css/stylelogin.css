@@ -1,0 +1,20 @@
+.email{
+    margin-top: 20%;
+    margin-left: 40%;
+}
+
+.password{
+    margin-left: 38%;
+}
+
+.remember{
+    margin-left: 44%;
+}
+
+.btn{
+    margin-top: 2%;
+    margin-left: 44%;
+    background-color: brown;
+    height: 3rem;
+    width: 8rem;
+}
